@@ -1,0 +1,49 @@
+.box img {
+
+    width: 248px;
+    height: 248px;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 5%;
+}
+.money{
+    width: 250px;
+    height: 180px;
+}
+
+.green-counter{
+    color:green;
+    font-size: 90px;
+}
+.yellow-counter{
+    color:orange;
+    font-size: 90px;
+}
+.red-counter{
+    color:red;
+    font-size: 90px;
+}
+.pad-button{
+    font-size: 40px;
+    height: 100px;
+}
+
+
+
+.desc{
+    font-size: xx-large;
+    color: darkgrey;
+    
+}
+.title{
+    font-size: 30px;
+}
+.moneyimg{
+    width: 250px;
+    height: 150px;
+    border-radius: 25px;
+}
